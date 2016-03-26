@@ -54,7 +54,7 @@ $body-font-color: $black !default;
 /// Font stack of the body.
 /// @type List
 @import url(https://fonts.googleapis.com/css?family=Exo+2:400,900,200);
-$body-font-family: 'Exo 2',
+$body-font-family: "Exo 2",
 Helvetica,
 Roboto,
 Arial,
@@ -164,7 +164,6 @@ $foundation-colors: ( primary: $primary-color, secondary: $secondary-color, succ
         display: none !important;
     }
 }
-
 /// Loads normalize.css.
 /// @access private
 @mixin -zf-normalize {

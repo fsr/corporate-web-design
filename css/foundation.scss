@@ -4,7 +4,7 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-
+ 
 // Sass utilities
 @import 'util/util';
 // Global variables and styles
@@ -88,5 +88,4 @@
     @include foundation-top-bar;
     //@include top-nav;
 }
-
 @include foundation-everything(false);
